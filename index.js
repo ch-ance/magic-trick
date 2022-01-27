@@ -1,3 +1,7 @@
 #!/usr/bin/env node
 
-console.log("HEY CHANCE!!");
+function main() {
+  console.log("Hello?");
+}
+
+main();
