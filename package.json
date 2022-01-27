@@ -1,0 +1,16 @@
+{
+  "name": "magic-trick",
+  "version": "1.0.1",
+  "description": "I hope this works!",
+  "homepage": "https:ch-ance.dev",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "bin": "./index.js"
+}
